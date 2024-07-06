@@ -1,4 +1,4 @@
-declare module 'dark-light-mode' {
+declare module 'zeek-theme-switcher' {
     import { FC, ReactNode } from 'react';
   
     interface BackgroundChangerProps {
