@@ -1,6 +1,6 @@
 {
-  "name": "rhett-background-color-changer",
-  "version": "1.0.5",
+  "name": "dark-light-mode",
+  "version": "1.0.7",
   "description": "A React component to change the background color of its children components.",
   "main": "index.js",
   "types": "index.d.ts",
