@@ -1,4 +1,4 @@
-declare module 'rhett-background-color-changer' {
+declare module 'dark-light-mode' {
     import { FC, ReactNode } from 'react';
   
     interface BackgroundChangerProps {
