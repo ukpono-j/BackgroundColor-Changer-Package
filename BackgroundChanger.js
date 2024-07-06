@@ -10,7 +10,7 @@ const BackgroundChanger = ({ children, colors }) => {
   };
 
   return (
-    <div style={{ backgroundColor: bgColor, padding: '10px' }} onClick={changeColor}>
+    <div style={{ backgroundColor: bgColor, padding: '10px', minHeight: "100vh" }} onClick={changeColor}>
       {children}
     </div>
   );
